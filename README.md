@@ -2,10 +2,10 @@
 Deep Thought Task
 
 <h3> Android Task Accomplished </h3>
-Task 1 - create the screens in Android Studio for the project.
+Task 1 - create the screens in Android Studio for the project. <br>
 Task 2 - retrieving data using JSON.
 
-I build this using the concepts of retrofit, recycer view, adapter and many more.
+I build this using the concepts of retrofit, recycler view, adapter, and many more.
 
 Thank You.
 
